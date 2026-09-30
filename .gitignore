@@ -1,0 +1,15 @@
+# Ignore large SQL dump
+Cafeteria Order Data/
+*.sql
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
